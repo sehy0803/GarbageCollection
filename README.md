@@ -1,4 +1,4 @@
-# Garbage_Collection
+# Garbage Collection
 가비지 컬렉션(Garbage Collection)이란 프로그래밍 언어에서 메모리 관리를 자동화하기 위한 기술입니다.
 일반적으로 프로그램은 동적으로 메모리를 할당하여 사용하고, 더 이상 참조되지 않는 메모리는 해제해야 합니다.
 그러나 이를 수동으로 관리하면 memory leaks나 invalid references와 같은 문제가 발생할 수 있습니다.
